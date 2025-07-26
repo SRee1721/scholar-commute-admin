@@ -1,2 +1,3 @@
 server/.env
 scholar-commute-admin/firebase/config.js
+scholar-commute-admin/node_modules
